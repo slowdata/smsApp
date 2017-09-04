@@ -1,0 +1,753 @@
+28-07-2017 16:44:23: CONFiG CARREGADA: 
+28-07-2017 16:44:23: Serviço Iniciado 
+28-07-2017 16:44:53: Template  Pagamento de Prestações                                                                                                                                                                                                                                         carregada :
+28-07-2017 16:44:53: Template  Pagamento de Subsídio de Desemprego                                                                                                                                                                                                                             carregada :
+28-07-2017 16:44:53: Template  Pagamento de Prestações Familiares                                                                                                                                                                                                                              carregada :
+28-07-2017 16:44:53: Template  Teste envio de mensagens                                                                                                                                                                                                                                        carregada :
+28-07-2017 16:49:23## TICK 1#################################
+28-07-2017 16:49:23:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:49:23: Processamento Fora da Hora 
+28-07-2017 16:49:23:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:49:23:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 16:49:23: estado conexão (SMS) Closed
+28-07-2017 16:49:23:!!!!!!! ERRO SMS!!!!!!: tel: 966241122 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:24:!!!!!!! ERRO SMS!!!!!!: tel: 915291634 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:24:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:25:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:25:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:26:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:26:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:27:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:27:!!!!!!! ERRO SMS!!!!!!: tel: 913156777 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:28:!!!!!!! ERRO SMS!!!!!!: tel: 969305804 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:28:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:29:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:29:!!!!!!! ERRO SMS!!!!!!: tel: 961107598 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:30:!!!!!!! ERRO SMS!!!!!!: tel: 965865080 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:30:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:31:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:31:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:32:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:32:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:33:!!!!!!! ERRO SMS!!!!!!: tel: 930506356 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:33:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:34:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:34:!!!!!!! ERRO SMS!!!!!!: tel: 938288308 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:35:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:35:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:36:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:36:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:37:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:37:!!!!!!! ERRO SMS!!!!!!: tel: 961391187 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:38:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:38:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:39:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:40:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:40:!!!!!!! ERRO SMS!!!!!!: tel: 913134527 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:41:!!!!!!! ERRO SMS!!!!!!: tel: 919161986 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:41:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:42:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:42:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:43:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:43:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:44:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:44:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:45:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:45:!!!!!!! ERRO SMS!!!!!!: tel: 912635849 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:46:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:46:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:47:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:47:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:48:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:48:!!!!!!! ERRO SMS!!!!!!: tel: 916956448 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:49:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:49:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:50: Foram Enviados 0 SMS; ***** Falhou o envio de 52 SMS *****
+28-07-2017 16:49:50:Limpeza do Historico SMS
+28-07-2017 16:49:50:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 16:49:50:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 16:49:50: estado conexão (Email) Closed
+28-07-2017 16:49:50:Limpeza do Historico EMAIL
+28-07-2017 16:49:50:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 16:49:50## TICK 2#################################
+28-07-2017 16:49:50:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:49:50: Processamento Fora da Hora 
+28-07-2017 16:49:50:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:49:50:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 16:49:50: estado conexão (SMS) Closed
+28-07-2017 16:49:50:!!!!!!! ERRO SMS!!!!!!: tel: 966241122 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:50:!!!!!!! ERRO SMS!!!!!!: tel: 915291634 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:51:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:51:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:52:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:52:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:53:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:53:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:54:!!!!!!! ERRO SMS!!!!!!: tel: 913156777 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:54:!!!!!!! ERRO SMS!!!!!!: tel: 969305804 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:55:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:56:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:56:!!!!!!! ERRO SMS!!!!!!: tel: 961107598 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:57:!!!!!!! ERRO SMS!!!!!!: tel: 965865080 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:57:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:58:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:58:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:59:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:49:59:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:00:!!!!!!! ERRO SMS!!!!!!: tel: 930506356 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:00:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:01:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:01:!!!!!!! ERRO SMS!!!!!!: tel: 938288308 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:02:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:02:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:03:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:03:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:04:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:04:!!!!!!! ERRO SMS!!!!!!: tel: 961391187 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:05:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:05:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:06:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:06:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:07:!!!!!!! ERRO SMS!!!!!!: tel: 913134527 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:07:!!!!!!! ERRO SMS!!!!!!: tel: 919161986 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:08:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:08:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:09:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:09:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:10:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:10:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:11:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:11:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:12:!!!!!!! ERRO SMS!!!!!!: tel: 912635849 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:12:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:13:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:14:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:14:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:15:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:15:!!!!!!! ERRO SMS!!!!!!: tel: 916956448 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:16:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:16:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:50:17: Foram Enviados 0 SMS; ***** Falhou o envio de 52 SMS *****
+28-07-2017 16:50:17:Limpeza do Historico SMS
+28-07-2017 16:50:17:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 16:50:17:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 16:50:17: estado conexão (Email) Closed
+28-07-2017 16:50:17:Limpeza do Historico EMAIL
+28-07-2017 16:50:17:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 16:54:23## TICK 3#################################
+28-07-2017 16:54:23:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:54:23: Processamento Fora da Hora 
+28-07-2017 16:54:23:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:54:23:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 16:54:23: estado conexão (SMS) Closed
+28-07-2017 16:54:23:!!!!!!! ERRO SMS!!!!!!: tel: 966241122 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:23:!!!!!!! ERRO SMS!!!!!!: tel: 915291634 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:24:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:25:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:25:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:26:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:26:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:27:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:27:!!!!!!! ERRO SMS!!!!!!: tel: 913156777 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:28:!!!!!!! ERRO SMS!!!!!!: tel: 969305804 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:28:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:29:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:29:!!!!!!! ERRO SMS!!!!!!: tel: 961107598 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:30:!!!!!!! ERRO SMS!!!!!!: tel: 965865080 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:30:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:31:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:31:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:32:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:32:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:33:!!!!!!! ERRO SMS!!!!!!: tel: 930506356 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:33:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:34:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:34:!!!!!!! ERRO SMS!!!!!!: tel: 938288308 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:35:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:35:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:36:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:36:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:37:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:37:!!!!!!! ERRO SMS!!!!!!: tel: 961391187 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:38:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:38:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:39:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:39:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:40:!!!!!!! ERRO SMS!!!!!!: tel: 913134527 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:40:!!!!!!! ERRO SMS!!!!!!: tel: 919161986 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:41:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:42:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:42:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:43:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:43:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:44:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:44:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:45:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:45:!!!!!!! ERRO SMS!!!!!!: tel: 912635849 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:46:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:46:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:47:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:47:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:48:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:48:!!!!!!! ERRO SMS!!!!!!: tel: 916956448 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:49:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:49:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:50: Foram Enviados 0 SMS; ***** Falhou o envio de 52 SMS *****
+28-07-2017 16:54:50:Limpeza do Historico SMS
+28-07-2017 16:54:50:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 16:54:50:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 16:54:50: estado conexão (Email) Closed
+28-07-2017 16:54:50:Limpeza do Historico EMAIL
+28-07-2017 16:54:50:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 16:54:50## TICK 4#################################
+28-07-2017 16:54:50:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:54:50: Processamento Fora da Hora 
+28-07-2017 16:54:50:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:54:50:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 16:54:50: estado conexão (SMS) Closed
+28-07-2017 16:54:50:!!!!!!! ERRO SMS!!!!!!: tel: 966241122 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:50:!!!!!!! ERRO SMS!!!!!!: tel: 915291634 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:51:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:51:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:52:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:52:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:53:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:53:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:54:!!!!!!! ERRO SMS!!!!!!: tel: 913156777 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:54:!!!!!!! ERRO SMS!!!!!!: tel: 969305804 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:55:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:55:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:56:!!!!!!! ERRO SMS!!!!!!: tel: 961107598 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:56:!!!!!!! ERRO SMS!!!!!!: tel: 965865080 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:57:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:57:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:58:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:58:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:54:59:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:00:!!!!!!! ERRO SMS!!!!!!: tel: 930506356 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:00:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:01:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:01:!!!!!!! ERRO SMS!!!!!!: tel: 938288308 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:02:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:02:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:03:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:03:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:04:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:04:!!!!!!! ERRO SMS!!!!!!: tel: 961391187 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:05:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:05:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:06:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:06:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:07:!!!!!!! ERRO SMS!!!!!!: tel: 913134527 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:07:!!!!!!! ERRO SMS!!!!!!: tel: 919161986 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:08:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:08:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:09:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:09:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:10:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:10:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:11:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:11:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:12:!!!!!!! ERRO SMS!!!!!!: tel: 912635849 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:12:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:13:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:13:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:14:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:14:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:15:!!!!!!! ERRO SMS!!!!!!: tel: 916956448 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:15:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:16:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:55:17: Foram Enviados 0 SMS; ***** Falhou o envio de 52 SMS *****
+28-07-2017 16:55:17:Limpeza do Historico SMS
+28-07-2017 16:55:17:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 16:55:17:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 16:55:17: estado conexão (Email) Closed
+28-07-2017 16:55:17:Limpeza do Historico EMAIL
+28-07-2017 16:55:17:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 16:59:23## TICK 5#################################
+28-07-2017 16:59:23:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:59:23: Processamento Fora da Hora 
+28-07-2017 16:59:23:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:59:23:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 16:59:23: estado conexão (SMS) Closed
+28-07-2017 16:59:23:!!!!!!! ERRO SMS!!!!!!: tel: 966241122 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:23:!!!!!!! ERRO SMS!!!!!!: tel: 915291634 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:24:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:25:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:25:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:26:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:26:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:27:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:27:!!!!!!! ERRO SMS!!!!!!: tel: 913156777 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:28:!!!!!!! ERRO SMS!!!!!!: tel: 969305804 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:28:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:29:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:29:!!!!!!! ERRO SMS!!!!!!: tel: 961107598 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:30:!!!!!!! ERRO SMS!!!!!!: tel: 965865080 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:30:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:31:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:31:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:32:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:32:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:33:!!!!!!! ERRO SMS!!!!!!: tel: 930506356 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:33:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:34:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:34:!!!!!!! ERRO SMS!!!!!!: tel: 938288308 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:35:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:35:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:36:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:36:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:37:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:37:!!!!!!! ERRO SMS!!!!!!: tel: 961391187 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:38:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:38:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:39:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:39:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:40:!!!!!!! ERRO SMS!!!!!!: tel: 913134527 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:40:!!!!!!! ERRO SMS!!!!!!: tel: 919161986 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:41:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:41:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:42:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:43:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:43:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:44:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:44:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:45:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:45:!!!!!!! ERRO SMS!!!!!!: tel: 912635849 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:46:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:46:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:47:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:47:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:48:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:48:!!!!!!! ERRO SMS!!!!!!: tel: 916956448 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:49:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:49:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:50: Foram Enviados 0 SMS; ***** Falhou o envio de 52 SMS *****
+28-07-2017 16:59:50:Limpeza do Historico SMS
+28-07-2017 16:59:50:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 16:59:50:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 16:59:50: estado conexão (Email) Closed
+28-07-2017 16:59:50:Limpeza do Historico EMAIL
+28-07-2017 16:59:50:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 16:59:50## TICK 6#################################
+28-07-2017 16:59:50:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:59:50: Processamento Fora da Hora 
+28-07-2017 16:59:50:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 16:59:50:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 16:59:50: estado conexão (SMS) Closed
+28-07-2017 16:59:50:!!!!!!! ERRO SMS!!!!!!: tel: 966241122 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:50:!!!!!!! ERRO SMS!!!!!!: tel: 915291634 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:51:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:51:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:52:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:52:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:53:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:53:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:54:!!!!!!! ERRO SMS!!!!!!: tel: 913156777 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:54:!!!!!!! ERRO SMS!!!!!!: tel: 969305804 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:55:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:55:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:56:!!!!!!! ERRO SMS!!!!!!: tel: 961107598 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:56:!!!!!!! ERRO SMS!!!!!!: tel: 965865080 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:57:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:57:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:58:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:58:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 16:59:59:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:00:!!!!!!! ERRO SMS!!!!!!: tel: 930506356 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:00:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:01:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:01:!!!!!!! ERRO SMS!!!!!!: tel: 938288308 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:02:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:02:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:03:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:03:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:04:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:04:!!!!!!! ERRO SMS!!!!!!: tel: 961391187 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:05:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:05:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:06:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:06:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:07:!!!!!!! ERRO SMS!!!!!!: tel: 913134527 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:07:!!!!!!! ERRO SMS!!!!!!: tel: 919161986 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:08:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:08:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:09:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:09:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:10:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:10:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:11:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:11:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:12:!!!!!!! ERRO SMS!!!!!!: tel: 912635849 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:13:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:13:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:14:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:14:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:15:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:15:!!!!!!! ERRO SMS!!!!!!: tel: 916956448 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:16:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:16:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:00:17: Foram Enviados 0 SMS; ***** Falhou o envio de 52 SMS *****
+28-07-2017 17:00:17:Limpeza do Historico SMS
+28-07-2017 17:00:17:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 17:00:17:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 17:00:17: estado conexão (Email) Closed
+28-07-2017 17:00:17:Limpeza do Historico EMAIL
+28-07-2017 17:00:17:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 17:04:23## TICK 7#################################
+28-07-2017 17:04:23:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:04:23: Processamento Fora da Hora 
+28-07-2017 17:04:23:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:04:23:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 17:04:23: estado conexão (SMS) Closed
+28-07-2017 17:04:23:!!!!!!! ERRO SMS!!!!!!: tel: 966241122 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:23:!!!!!!! ERRO SMS!!!!!!: tel: 915291634 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:24:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:25:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:25:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:26:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:26:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:27:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:27:!!!!!!! ERRO SMS!!!!!!: tel: 913156777 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:28:!!!!!!! ERRO SMS!!!!!!: tel: 969305804 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:28:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:29:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:29:!!!!!!! ERRO SMS!!!!!!: tel: 961107598 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:30:!!!!!!! ERRO SMS!!!!!!: tel: 965865080 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:30:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:31:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:31:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:32:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:32:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:33:!!!!!!! ERRO SMS!!!!!!: tel: 930506356 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:33:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:34:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:34:!!!!!!! ERRO SMS!!!!!!: tel: 938288308 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:35:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:35:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:36:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:36:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:37:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:37:!!!!!!! ERRO SMS!!!!!!: tel: 961391187 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:38:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:38:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:39:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:39:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:40:!!!!!!! ERRO SMS!!!!!!: tel: 913134527 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:40:!!!!!!! ERRO SMS!!!!!!: tel: 919161986 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:41:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:42:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:42:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:43:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:43:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:44:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:44:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:45:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:45:!!!!!!! ERRO SMS!!!!!!: tel: 912635849 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:46:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:46:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:47:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:47:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:48:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:48:!!!!!!! ERRO SMS!!!!!!: tel: 916956448 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:49:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:49:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:50: Foram Enviados 0 SMS; ***** Falhou o envio de 52 SMS *****
+28-07-2017 17:04:50:Limpeza do Historico SMS
+28-07-2017 17:04:50:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 17:04:50:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 17:04:50: estado conexão (Email) Closed
+28-07-2017 17:04:50:Limpeza do Historico EMAIL
+28-07-2017 17:04:50:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 17:04:50## TICK 8#################################
+28-07-2017 17:04:50:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:04:50: Processamento Fora da Hora 
+28-07-2017 17:04:50:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:04:50:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 17:04:50: estado conexão (SMS) Closed
+28-07-2017 17:04:50:!!!!!!! ERRO SMS!!!!!!: tel: 966241122 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:50:!!!!!!! ERRO SMS!!!!!!: tel: 915291634 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:51:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:51:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:52:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:52:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:53:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:53:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:54:!!!!!!! ERRO SMS!!!!!!: tel: 913156777 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:55:!!!!!!! ERRO SMS!!!!!!: tel: 969305804 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:55:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:56:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:56:!!!!!!! ERRO SMS!!!!!!: tel: 961107598 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:57:!!!!!!! ERRO SMS!!!!!!: tel: 965865080 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:57:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:58:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:58:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:59:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:04:59:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:00:!!!!!!! ERRO SMS!!!!!!: tel: 930506356 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:00:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:01:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:01:!!!!!!! ERRO SMS!!!!!!: tel: 938288308 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:02:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:02:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:03:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:03:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:04:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:04:!!!!!!! ERRO SMS!!!!!!: tel: 961391187 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:05:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:05:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:06:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:06:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:07:!!!!!!! ERRO SMS!!!!!!: tel: 913134527 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:07:!!!!!!! ERRO SMS!!!!!!: tel: 919161986 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:08:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:08:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:09:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:09:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:10:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:10:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:11:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:12:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:12:!!!!!!! ERRO SMS!!!!!!: tel: 912635849 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:13:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:13:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:14:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:14:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:15:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:15:!!!!!!! ERRO SMS!!!!!!: tel: 916956448 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:16:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:16:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:05:17: Foram Enviados 0 SMS; ***** Falhou o envio de 52 SMS *****
+28-07-2017 17:05:17:Limpeza do Historico SMS
+28-07-2017 17:05:17:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 17:05:17:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 17:05:17: estado conexão (Email) Closed
+28-07-2017 17:05:17:Limpeza do Historico EMAIL
+28-07-2017 17:05:17:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 17:09:23## TICK 9#################################
+28-07-2017 17:09:23:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:09:23: Processamento Fora da Hora 
+28-07-2017 17:09:23:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:09:23:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 17:09:23: estado conexão (SMS) Closed
+28-07-2017 17:09:23:!!!!!!! ERRO SMS!!!!!!: tel: 966241122 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:23:!!!!!!! ERRO SMS!!!!!!: tel: 915291634 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:24:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:24:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:25:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:26:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:26:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:27:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:27:!!!!!!! ERRO SMS!!!!!!: tel: 913156777 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:28:!!!!!!! ERRO SMS!!!!!!: tel: 969305804 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:28:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:29:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:29:!!!!!!! ERRO SMS!!!!!!: tel: 961107598 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:30:!!!!!!! ERRO SMS!!!!!!: tel: 965865080 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:30:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:31:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:31:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:32:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:32:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:33:!!!!!!! ERRO SMS!!!!!!: tel: 930506356 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:33:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:34:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:34:!!!!!!! ERRO SMS!!!!!!: tel: 938288308 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:35:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:35:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:36:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:36:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:37:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:37:!!!!!!! ERRO SMS!!!!!!: tel: 961391187 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:38:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:38:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:39:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:39:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:40:!!!!!!! ERRO SMS!!!!!!: tel: 913134527 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:40:!!!!!!! ERRO SMS!!!!!!: tel: 919161986 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:41:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:41:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:42:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:43:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:43:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:44:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:44:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:45:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:45:!!!!!!! ERRO SMS!!!!!!: tel: 912635849 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:46:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:46:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:47:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:47:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:48:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:48:!!!!!!! ERRO SMS!!!!!!: tel: 916956448 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:49:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:49:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:50: Foram Enviados 0 SMS; ***** Falhou o envio de 52 SMS *****
+28-07-2017 17:09:50:Limpeza do Historico SMS
+28-07-2017 17:09:50:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 17:09:50:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 17:09:50: estado conexão (Email) Closed
+28-07-2017 17:09:50:Limpeza do Historico EMAIL
+28-07-2017 17:09:50:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 17:09:50## TICK 10#################################
+28-07-2017 17:09:50:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:09:50: Processamento Fora da Hora 
+28-07-2017 17:09:50:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:09:50:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 17:09:50: estado conexão (SMS) Closed
+28-07-2017 17:09:50:!!!!!!! ERRO SMS!!!!!!: tel: 966241122 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:50:!!!!!!! ERRO SMS!!!!!!: tel: 915291634 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:51:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:51:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:52:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:52:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:53:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:53:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:54:!!!!!!! ERRO SMS!!!!!!: tel: 913156777 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:54:!!!!!!! ERRO SMS!!!!!!: tel: 969305804 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:55:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:55:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:56:!!!!!!! ERRO SMS!!!!!!: tel: 961107598 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:56:!!!!!!! ERRO SMS!!!!!!: tel: 965865080 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:57:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:57:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:58:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:58:!!!!!!! ERRO SMS!!!!!!: tel: 916930278 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:09:59:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:00:!!!!!!! ERRO SMS!!!!!!: tel: 930506356 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:00:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:01:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:01:!!!!!!! ERRO SMS!!!!!!: tel: 938288308 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:02:!!!!!!! ERRO SMS!!!!!!: tel: 919863370 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:02:!!!!!!! ERRO SMS!!!!!!: tel: 933895730 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:03:!!!!!!! ERRO SMS!!!!!!: tel: 917697079 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:03:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:04:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:04:!!!!!!! ERRO SMS!!!!!!: tel: 961391187 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:05:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:05:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:06:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:06:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:07:!!!!!!! ERRO SMS!!!!!!: tel: 913134527 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:07:!!!!!!! ERRO SMS!!!!!!: tel: 919161986 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:08:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:08:!!!!!!! ERRO SMS!!!!!!: tel: 961055065 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:09:!!!!!!! ERRO SMS!!!!!!: tel: 933177486 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:09:!!!!!!! ERRO SMS!!!!!!: tel: 964568117 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:10:!!!!!!! ERRO SMS!!!!!!: tel: 916265077 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:10:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:11:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:11:!!!!!!! ERRO SMS!!!!!!: tel: 933726495 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:12:!!!!!!! ERRO SMS!!!!!!: tel: 912635849 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:12:!!!!!!! ERRO SMS!!!!!!: tel: 926429736 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:13:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:13:!!!!!!! ERRO SMS!!!!!!: tel: 919707596 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:14:!!!!!!! ERRO SMS!!!!!!: tel: 938012635 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:14:!!!!!!! ERRO SMS!!!!!!: tel: 961879323 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:15:!!!!!!! ERRO SMS!!!!!!: tel: 916956448 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:15:!!!!!!! ERRO SMS!!!!!!: tel: 960366155 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:16:!!!!!!! ERRO SMS!!!!!!: tel: 931101460 The request failed with HTTP status 407: authenticationrequired.
+28-07-2017 17:10:16: Foram Enviados 0 SMS; ***** Falhou o envio de 52 SMS *****
+28-07-2017 17:10:16:Limpeza do Historico SMS
+28-07-2017 17:10:16:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 17:10:16:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 17:10:16: estado conexão (Email) Closed
+28-07-2017 17:10:16:Limpeza do Historico EMAIL
+28-07-2017 17:10:16:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 17:11:09: Serviço Parado
+28-07-2017 17:11:37: CONFiG CARREGADA: 
+28-07-2017 17:11:37: Serviço Iniciado 
+28-07-2017 17:12:07: Template  Pagamento de Prestações                                                                                                                                                                                                                                         carregada :
+28-07-2017 17:12:07: Template  Pagamento de Subsídio de Desemprego                                                                                                                                                                                                                             carregada :
+28-07-2017 17:12:07: Template  Pagamento de Prestações Familiares                                                                                                                                                                                                                              carregada :
+28-07-2017 17:12:07: Template  Teste envio de mensagens                                                                                                                                                                                                                                        carregada :
+28-07-2017 17:12:07:!!!!!!! ERRO Mapear Drive!!!!!!: The local device name is already in use
+28-07-2017 17:12:22: Serviço Parado
+28-07-2017 17:14:07: CONFiG CARREGADA: 
+28-07-2017 17:14:07: Serviço Iniciado 
+28-07-2017 17:14:37: Template  Pagamento de Prestações                                                                                                                                                                                                                                         carregada :
+28-07-2017 17:14:37: Template  Pagamento de Subsídio de Desemprego                                                                                                                                                                                                                             carregada :
+28-07-2017 17:14:37: Template  Pagamento de Prestações Familiares                                                                                                                                                                                                                              carregada :
+28-07-2017 17:14:37: Template  Teste envio de mensagens                                                                                                                                                                                                                                        carregada :
+28-07-2017 17:14:37:!!!!!!! ERRO Mapear Drive!!!!!!: The local device name is already in use
+28-07-2017 17:19:07## TICK 1#################################
+28-07-2017 17:19:07:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:19:07: Processamento Fora da Hora 
+28-07-2017 17:19:07:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:19:07:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 17:19:07: estado conexão (SMS) Closed
+28-07-2017 17:19:07*
+28-07-2017 17:19:07*
+28-07-2017 17:19:08*
+28-07-2017 17:19:09*
+28-07-2017 17:19:09*
+28-07-2017 17:19:10*
+28-07-2017 17:19:10*
+28-07-2017 17:19:11*
+28-07-2017 17:19:12*
+28-07-2017 17:19:12*
+28-07-2017 17:19:13*
+28-07-2017 17:19:13*
+28-07-2017 17:19:14*
+28-07-2017 17:19:14*
+28-07-2017 17:19:15*
+28-07-2017 17:19:16*
+28-07-2017 17:19:16*
+28-07-2017 17:19:17*
+28-07-2017 17:19:17*
+28-07-2017 17:19:18*
+28-07-2017 17:19:18*
+28-07-2017 17:19:19*
+28-07-2017 17:19:20*
+28-07-2017 17:19:20*
+28-07-2017 17:19:21*
+28-07-2017 17:19:21*
+28-07-2017 17:19:22*
+28-07-2017 17:19:22*
+28-07-2017 17:19:23*
+28-07-2017 17:19:24*
+28-07-2017 17:19:24*
+28-07-2017 17:19:25: Foram Enviados 31 SMS; ***** Falhou o envio de 0 SMS *****
+28-07-2017 17:19:27:Limpeza do Historico SMS
+28-07-2017 17:19:27:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 17:19:27:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 17:19:27: estado conexão (Email) Closed
+28-07-2017 17:19:27:Limpeza do Historico EMAIL
+28-07-2017 17:19:27:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 17:19:27## TICK 2#################################
+28-07-2017 17:19:27:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:19:27: Processamento Fora da Hora 
+28-07-2017 17:19:27:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:19:27:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 17:19:27: estado conexão (SMS) Closed
+28-07-2017 17:19:27:Limpeza do Historico SMS
+28-07-2017 17:19:27:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 17:19:27:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 17:19:27: estado conexão (Email) Closed
+28-07-2017 17:19:27:Limpeza do Historico EMAIL
+28-07-2017 17:19:27:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 17:24:07## TICK 3#################################
+28-07-2017 17:24:07:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:24:07: Processamento Fora da Hora 
+28-07-2017 17:24:07:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:24:07:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 17:24:07: estado conexão (SMS) Closed
+28-07-2017 17:24:07:Limpeza do Historico SMS
+28-07-2017 17:24:07:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 17:24:07:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 17:24:07: estado conexão (Email) Closed
+28-07-2017 17:24:07:Limpeza do Historico EMAIL
+28-07-2017 17:24:07:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 17:24:07## TICK 4#################################
+28-07-2017 17:24:07:%%%%%%%% Inicio de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:24:07: Processamento Fora da Hora 
+28-07-2017 17:24:07:%%%%%%%% Fim de Processamento de ficheiros %%%%%%%%
+28-07-2017 17:24:07:%%%%%%%% Inicio de Processamento de SMS %%%%%%%%
+28-07-2017 17:24:07: estado conexão (SMS) Closed
+28-07-2017 17:24:07:Limpeza do Historico SMS
+28-07-2017 17:24:07:%%%%%%%% Fim de Processamento de SMS %%%%%%%%
+28-07-2017 17:24:07:%%%%%%%% Inicio de Processamento de MAIL %%%%%%%%
+28-07-2017 17:24:07: estado conexão (Email) Closed
+28-07-2017 17:24:07:Limpeza do Historico EMAIL
+28-07-2017 17:24:07:%%%%%%%% Fim de Processamento de MAIL %%%%%%%%
+28-07-2017 17:25:18: Serviço Parado
