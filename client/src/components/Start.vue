@@ -17,7 +17,7 @@ export default {
   methods: {
     async checkFiles () {
       const response = await AuthenticationService.register({username: 'slowdata'})
-      console.log(response)
+      console.log(response.data.message)
     }
   }
 }

@@ -1,6 +1,5 @@
 const express = require('express')
 const http = require('http')
-const cors = require('cors')
 const bodyParser = require('body-parser')
 const morgan = require('morgan')
 const socketIo = require('socket.io')
@@ -13,7 +12,6 @@ const port = process.env.PORT || 8081
 app.use(bodyParser.json())
 app.use(morgan('tiny'))
 app.use(index)
-app.use(cors())
 
 const server = http.createServer(app)
 const io = socketIo(server)
