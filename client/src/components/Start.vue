@@ -2,6 +2,10 @@
   <div class="coisas">
     <input type="text" v-model="msg">
     <button @click="checkFiles()">Start</button>
+    <br>
+    <ul>
+      <li v-for="error in errors">{{error}}</li>
+    </ul>
   </div>
 </template>
 
@@ -11,13 +15,14 @@ export default {
   name: 'coisas',
   data () {
     return {
-      msg: ''
+      msg: '',
+      errors: []
     }
   },
   methods: {
     async checkFiles () {
-      const response = await AuthenticationService.register({username: 'slowdata'})
-      console.log(response.data.message)
+      const response = await AuthenticationService.start({username: 'slowdata'})
+      this.errors = response.data.errors
     }
   }
 }
