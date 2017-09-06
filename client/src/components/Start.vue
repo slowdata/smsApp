@@ -3,6 +3,7 @@
     <input type="text" v-model="msg">
     <button @click="checkFiles()">Start</button>
     <br>
+    <p>Total de Erros: {{errors.length}}</p>
     <ul>
       <li v-for="error in errors">{{error}}</li>
     </ul>

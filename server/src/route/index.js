@@ -12,16 +12,16 @@ router.get('/', (req, res) => {
 })
 
 router.post('/start', (req, res) => {
-  let lines = []
   const rs = fs.createReadStream('./../alertas2017728.txt', { encoding: 'utf8' })
   let rl = readLine.createInterface({
     input: rs,
     output: process.stdout,
     terminal: false
   })
-
+  let lines = []
   rl.on('line', (line) => {
     if (line.toLowerCase().includes('erro')) {
+      console.log({...line.split(' ')})
       lines.push(line)
     }
   })
